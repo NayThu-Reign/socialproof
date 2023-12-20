@@ -1,0 +1,123 @@
+.container {
+    box-sizing: border-box;
+    height: 700px;
+}
+
+.content {
+    padding-top: 100px;
+}
+ .title h2 {
+    color: hsl(300, 43%, 22%);
+    line-height: 30px;
+}
+
+.body {
+    margin-top: 30px;
+}
+.body p {
+    line-height: 6px;
+    font-size: 15px;
+    color: hsl(303, 10%, 53%);
+}
+
+.starbox {
+    padding-top: 20px;
+}
+.review {
+    background-color: hsl(300, 24%, 96%);
+    width: 380px;
+    height: 45px;
+    display: flex;
+}
+ .star{
+    margin-right: 3px;
+    padding-top: 8px;
+    padding-left: 20px;
+}
+
+ .rated{
+    padding-top: 10px;
+    margin-left: 25px;
+    font-size: 15px;
+    /* color: hsl(300, 43%, 22%); */
+}
+.rated p {
+    color: hsl(300, 92%, 24%);
+}
+
+.report {
+    background-color: hsl(300, 24%, 96%);
+    width: 380px;
+    height: 45px;
+    display: flex;
+    margin-left: 35px;
+}
+
+.tech {
+    background-color: hsl(300, 24%, 96%);
+    width: 380px;
+    height: 45px;
+    display: flex;
+    margin-left: 70px;
+}
+
+.box {
+    margin-top: 80px;
+}
+
+.card {
+    width: 340px;
+    height: 215px;
+    border-radius: 5px;
+    border: none;
+    background-color: hsl(300, 43%, 22%);
+}
+
+.card-title {
+    display: flex;
+}
+
+.image {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+.detail {
+    margin-left: 25px;
+    margin-top: 40px;
+    line-height: 20px;
+}
+
+.name {
+    font-size: 15px;
+    color: hsl(0, 0%, 100%);
+}
+.buyer {
+    font-size: 13px;
+    color: hsl(333, 80%, 67%);
+}
+
+.paragraph {
+    margin-left: 13px;
+}
+.paragraph p{
+    font-size: 13px;
+    line-height: 6px;
+    color: hsl(0, 0%, 100%);
+    word-spacing: 3px;
+}
+
+.person2 {
+    margin-top: 20px;
+}
+.person3 {
+    margin-top: 40px;
+}
